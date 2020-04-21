@@ -1,0 +1,6 @@
+{
+ "name": "stand",
+  "repo": "https://github.com/matthewhammer/motoko-stand",
+  "version": "v1.0.0",
+  "dependencies": ["stdlib"]
+}
