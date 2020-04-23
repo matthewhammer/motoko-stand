@@ -1,4 +1,4 @@
-import List "mo:stdlib/list";
+import List "mo:base/list";
 module {
   public class Stack<T>() {
     var stack : List.List<T> = List.nil<T>();    
