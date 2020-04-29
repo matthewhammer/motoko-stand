@@ -1,7 +1,7 @@
 [
   {
     "name": "base",
-    "repo": "/Users/matthew/dfn/motoko-base",
+    "repo": "git@github.com:dfinity-lab/motoko-base.git",
     "version": "imports",
     "dependencies": []
   }
